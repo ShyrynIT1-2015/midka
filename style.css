@@ -1,0 +1,297 @@
+body{
+	font-family: Spectral;
+}
+
+header li{
+	display: inline;
+	
+}
+
+footer{
+	padding-top: 50px;
+	display: grid;
+	grid-template-columns: 25% 25% 25% 25%;
+	grid-template-rows: 200px;
+	padding-left: 40px;
+	text-align: center;
+	
+}
+.row6{
+	display: grid;
+	grid-template-columns: 40% 60%;
+	grid-template-rows: 400px;
+	margin-top: 60px;
+
+}
+.grid5{
+	padding-left: 200px;
+	font-weight: thin;
+	padding-top:70px;
+}
+.grid5_1{
+	text-align: center;
+}
+.grid4{
+	padding-left: 200px;
+}
+.grid4_1{
+	text-align: center;
+}
+.row5{
+	display: grid;
+	grid-template-columns: 60% 40%;
+	grid-template-rows: 400px;
+	margin-top: 60px;
+
+}
+.row4{
+	display: grid;
+	padding-top: 30px;
+	grid-template-columns: 33% 33% 33%;
+	grid-template-rows: 400px;
+	height: 170px;
+	text-align: center;
+	margin-top: 60px;
+
+}
+.gen2{
+	margin-top: 50px;
+	display: flex;
+}
+.flex3{
+	font-size: 19px;
+	font-weight: 400px;
+	padding-right: 50px;
+	padding-left: 200px;
+	width: 30%;
+}
+.flex4{
+	padding-left: 100px;
+	display: grid;
+	grid-template-columns: 180px 180px 180px;
+	grid-template-rows: 180px 180px;
+	text-align: center;
+}
+.row3{
+display: grid;
+	grid-template-columns: 25% 25% 25% 25%;
+	grid-template-rows: 300px;
+	text-align: center;
+	margin-top: 60px;
+
+
+}
+.row2{
+	display: grid;
+	grid-template-columns: 50% 50%;
+	grid-template-rows: 400px;
+	margin-top: 60px;
+
+}
+.grid3{
+	font-size: 19px;
+	font-weight: 400px;
+	padding-right: 50px;
+	padding-left: 200px;
+
+}
+.row{
+	display: grid;
+	grid-template-columns: 60% 40%;
+	grid-template-rows: 400px;
+	margin-top: 60px;
+
+
+}
+.grid2_1{
+	font-size: 19px;
+	font-weight: 400px;
+	padding-right: 100px;
+}
+.gen{
+	display: flex;
+	margin-top: 60px;
+}
+.flex1{
+	padding-left: 200px;
+	padding-right: 40px;
+	font-weight: 400;
+	width: 40%;
+	font-size: 21px;
+}
+.flex2{
+	display: grid;
+	grid-template-columns: 180px 180px 180px;
+	grid-template-rows: 180px 180px;
+	text-align: center;
+}
+.sale-text-center{
+	text-align: center;
+	background-color: #ffcad4;
+height: 70px;
+padding-top: 20px;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+.sale-text-center img{
+	width: 20px;
+	height: 20px;
+}
+.sale{
+	background-color: #ffcad4;
+	height: 65px;
+	display: left;
+}
+
+
+.saleimg{
+	margin-left: -50px;
+}
+
+.sale a{
+	color: black;
+}
+
+.sale a:hover{
+    text-decoration: none;
+}
+
+.header-s{
+	padding-top:10px;
+	list-style: none outside none; 
+	margin:0; 
+	padding: 0; 
+	text-align: center;
+	background-color: #ffffff;
+}
+.header-s li{
+	margin-right: 20px;
+	padding-top:10px;
+	display: inline-block; 
+}
+
+.phone a{
+	color:#ffcad4;
+	font-size:20px;
+	font-weight: bold;
+}
+
+.phone a:hover{
+    text-decoration: none;
+}
+
+.header-s .about-site p{
+	color: #c6c7c7;
+    transform: scale(0.7);
+}
+
+.personal a{
+    color: black;
+}
+
+.personal a:hover{
+    color: #ffcad4;
+	text-decoration: none;
+}
+
+.buttonI{
+	border: 1px solid #ffcad4;
+	background-color: white;
+	height: 50px;
+	width: 300px	
+}
+
+.buttonI:hover{
+	border-style: double;
+	color: #ffcad4;
+}
+
+.str{
+	color:#ffcad4;
+	margin-bottom: 100px;
+}
+
+.shape{
+	background-color:#ffcad4;	
+	width:100px;
+	height:1px;
+	margin-bottom:10px;
+	margin-left: 25px
+}
+
+.roi{
+	color:black;
+}
+
+.roi:hover{
+	color:#ffcad4;
+	text-decoration: none;
+}
+
+.shape2{
+	background-color:#ffcad4;	
+	width: 145px;
+	height: 1px;
+	margin-bottom:10px;
+	margin-left: 32px
+}
+
+.xdxd{
+	color:black;
+	font-weight
+}
+
+.xdxd:hover{
+	color:#ffcad4;
+	text-decoration: none;
+}
+
+.top-price{
+	font-size:12px;
+}
+
+.features{
+	background-color:#fff4f6;
+}
+
+.shape4{
+	background-color:#ffcad4;	
+	width: 145px;
+	height: 1px;
+	margin-left:170px;
+	margin-bottom:10px;
+}
+
+.hro{
+	color:black;
+}
+
+.hro:hover{
+	color:#ffcad4;
+	text-decoration: none;	
+}
+
+.shape7{
+	color: gray;
+	width: 145px;
+	height: 2px;
+}
+
+.ph{
+	width: 5000px;
+	height: 400px;
+	background: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.1));
+}
+
+footer{
+	color: #878686;
+	background-color:#27251f;
+
+}
+
+
+svg {
+  width: 400px;
+}
