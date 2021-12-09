@@ -1,1 +1,2 @@
-# midka
+# midka 
+Shyryn and Zhansaya
